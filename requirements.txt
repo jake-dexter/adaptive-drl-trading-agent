@@ -1,0 +1,7 @@
+pandas
+yfinance
+matplotlib
+torch
+stable-baselines3
+backtrader
+optuna
