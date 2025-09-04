@@ -4,7 +4,7 @@
 Financial markets change over time: sometimes trending upward (bullish), sometimes downward (bearish), sometimes moving sideways, and sometimes highly volatile. Most simple trading strategies fail to adapt to these changing conditions, performing well in one regime but badly in another. For example, a rule like “buy when the price is above the moving average” may work in upward trends but lose money in falling markets.
 
 ## The Aim
-The aim of this project is to build a reinforcement learning agent that learns to trade by interacting with historical market data through trial and error. The agent should adapt its behaviour across different regimes — trending, sideways, and volatile — and be benchmarked against simple strategies such as Buy & Hold and moving average crossovers.
+The aim of this project is to build a reinforcement learning agent that learns to trade by interacting with historical market data through trial and error. The agent should adapt its behaviour across different regimes - trending, sideways, and volatile - and be benchmarked against simple strategies such as Buy & Hold and moving average crossovers.
 
 ## What Will Count as Done
 1. **A working agent**
